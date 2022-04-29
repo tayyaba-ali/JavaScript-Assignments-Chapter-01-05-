@@ -6,7 +6,7 @@
 
 // 2. Declare a variable called myName & assign to it a string that represents your Full Name.
 
-// var myName = "Tayyaba Ali";
+// var myName = "Umra Badar";
 
 // 3. Write script to
 // a) Declare a JS variable, titled message.
@@ -19,7 +19,7 @@
 
 // 4. Write a script to save student’s bio data in JS variables and show the data in alert boxes.
 
-// var myName = "Tayyaba Ali";
+// var myName = "Umra Badar";
 // var age = 20;
 // var course = "Certified Mobile Application Development";
 // alert(myName);

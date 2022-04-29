@@ -23,7 +23,7 @@
 // c. Quantity i.e. how many products a visitor wants to order
 // Show the following message in your browser: “John Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
 
-// var visitorName = "Tayyaba Ali";
+// var visitorName = "Umra Badar";
 // var productTitle = "T-Shirts";
 // var quantity = 8;
 // document.write(visitorName + " ordered " + quantity + " " + productTitle + " on XYZ Clothing store")
